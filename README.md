@@ -27,7 +27,7 @@
 
 ## Certifications
 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/170842586" alt="eJPTv2 badge" width="150"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/180359720?key=894f3df9faa311de1e415fdd6ae1ae4acdbebd32ad6791bfc9cf9eb09c6e888f" alt="PJPT badge" width="150"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/191034417" alt="PNPT badge" width="150">
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/180359720?key=894f3df9faa311de1e415fdd6ae1ae4acdbebd32ad6791bfc9cf9eb09c6e888f" alt="PJPT badge" width="150"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/170842586" alt="eJPTv2 badge" width="150"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/191034417" alt="PNPT badge" width="150">
 
 ---
 
